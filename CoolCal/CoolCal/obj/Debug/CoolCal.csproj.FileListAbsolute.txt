@@ -1,0 +1,9 @@
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\bin\Debug\CoolCal.exe.config
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\bin\Debug\CoolCal.exe
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\bin\Debug\CoolCal.pdb
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\bin\Debug\MySql.Data.dll
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\obj\Debug\CoolCal.csprojAssemblyReference.cache
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\obj\Debug\CoolCal.csproj.CoreCompileInputs.cache
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\obj\Debug\CoolCal.csproj.CopyComplete
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\obj\Debug\CoolCal.exe
+C:\Users\Lee Hart\source\repos\CoolCal\CoolCal\obj\Debug\CoolCal.pdb
