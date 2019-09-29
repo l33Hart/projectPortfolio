@@ -11,7 +11,8 @@ namespace leeHart_ConvertedData
         string name;
         decimal rating;
         public void RestaurantReviews(string restaurantName, decimal rate)
-        { Name = restaurantName;
+        {
+            Name = restaurantName;
             Rating = rate;
         }
 

@@ -48,19 +48,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class2.cs" />
-    <Compile Include="Class3.cs" />
-    <Compile Include="Class4.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
+    <Compile Include="AnimatedBar.cs" />
+    <Compile Include="AnimatedBarGraph.cs" />
+    <Compile Include="CardGame1.cs" />
+    <Compile Include="Cards.cs" />
+    <Compile Include="ResaurantReviewerReviews.cs" />
+    <Compile Include="RestaurantReviews.cs" />
+    <Compile Include="RestaurantReviewsDisplay.cs" />
+    <Compile Include="Players.cs" />
+    <Compile Include="RestaurantGraphRater.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="restaurantReviews.cs" />
+    <Compile Include="RestaurantReviewGraphs.cs" />
+    <Compile Include="restaurantReviewsData.cs" />
     <Compile Include="Utility.cs" />
     <Compile Include="Validations.cs" />
   </ItemGroup>

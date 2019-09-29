@@ -15,7 +15,7 @@ namespace leeHart_ConvertedData
         }
         public static void Pause(string mess)
         {
-            Console.WriteLine($"{mess}\r\nProgram is paused hit any key");
+            Console.WriteLine($"{mess}");
             Console.ReadKey();
 
         }
