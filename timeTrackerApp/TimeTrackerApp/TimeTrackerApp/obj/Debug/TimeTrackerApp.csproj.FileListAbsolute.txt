@@ -1,0 +1,9 @@
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\bin\Debug\TimeTrackerApp.exe.config
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\bin\Debug\TimeTrackerApp.exe
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\bin\Debug\TimeTrackerApp.pdb
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\bin\Debug\MySql.Data.dll
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\obj\Debug\TimeTrackerApp.csprojAssemblyReference.cache
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\obj\Debug\TimeTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\obj\Debug\TimeTrackerApp.csproj.CopyComplete
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\obj\Debug\TimeTrackerApp.exe
+C:\Users\Lee Hart\source\repos\TimeTrackerApp\TimeTrackerApp\obj\Debug\TimeTrackerApp.pdb
