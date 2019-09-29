@@ -10,10 +10,10 @@ using MySql.Data.MySqlClient;
 
 namespace leeHart_ConvertedData
 {
-    class restaurantReviews
+    class restaurantReviewsData
     {
 
-        static restaurantReviews(){; }
+        static restaurantReviewsData(){; }
 public void runRestaurantReveiws() { 
         //Database Location
         //string cs = @"server= 127.0.0.1;userid=root;password=root;database=SampleRestaurantDatabase;port=8889";
@@ -154,7 +154,18 @@ static public MySqlConnection _conn()
     return conn;
 }
 
-static string GetRestaurantInfo(MySqlConnection connection, string query, string coll)
+        static public DataTable RestaurauntData( string query)
+        {
+            MySqlConnection connection = _conn();
+            DataTable data = new DataTable();
+            MySqlDataAdapter adapt = new MySqlDataAdapter(query, connection);
+            adapt.SelectCommand.CommandType = CommandType.Text;
+            adapt.Fill(data);
+
+            return data;
+
+        }
+static public string GetRestaurantInfo(MySqlConnection connection, string query, string coll)
 {
             
            
