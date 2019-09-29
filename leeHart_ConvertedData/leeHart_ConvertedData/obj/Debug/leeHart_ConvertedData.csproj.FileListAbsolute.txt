@@ -1,0 +1,9 @@
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\bin\Debug\leeHart_ConvertedData.exe.config
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\bin\Debug\leeHart_ConvertedData.exe
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\bin\Debug\leeHart_ConvertedData.pdb
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\bin\Debug\MySql.Data.dll
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\obj\Debug\leeHart_ConvertedData.csprojAssemblyReference.cache
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\obj\Debug\leeHart_ConvertedData.csproj.CoreCompileInputs.cache
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\obj\Debug\leeHart_ConvertedData.csproj.CopyComplete
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\obj\Debug\leeHart_ConvertedData.exe
+C:\Users\Lee Hart\source\repos\leeHart_ConvertedData\leeHart_ConvertedData\obj\Debug\leeHart_ConvertedData.pdb
