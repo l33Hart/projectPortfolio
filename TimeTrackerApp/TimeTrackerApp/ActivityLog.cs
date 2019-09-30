@@ -13,7 +13,7 @@ namespace TimeTrackerApp
 
         public ActivityLog() { }
         public static DataTable dataTable = DatabaseConnection.queryDatabase(@"select * from activity_log");
-
+        private int _activityID;
         private int _user_ID;
         private int _dateTime;
         private int _day_name;
@@ -22,8 +22,8 @@ namespace TimeTrackerApp
         private int time_spent_on;
         private int calendar_date;
 
-       
 
+        public int SetID{ get { return _activityID; ; } set { _activityID = value; } }
 
         public int User_ID { get { return _user_ID; } set { value = _user_ID; } }
 
@@ -98,6 +98,7 @@ namespace TimeTrackerApp
             {
                 ActivityLog logger = new ActivityLog();
 
+                int.TryParse(log["id"].ToString(), out logger._activityID);
                 int.TryParse(log["user_id"].ToString(), out logger._user_ID);
                 int.TryParse(log["calendar_day"].ToString(), out logger._dateTime);
                 int.TryParse(log["day_name"].ToString(), out logger._day_name);

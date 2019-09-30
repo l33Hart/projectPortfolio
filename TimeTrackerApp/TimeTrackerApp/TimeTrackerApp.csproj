@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activities.cs" />
     <Compile Include="ActivityLog.cs" />
     <Compile Include="DatabaseConnection.cs" />
     <Compile Include="Menu.cs" />

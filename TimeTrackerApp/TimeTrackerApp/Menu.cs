@@ -129,15 +129,21 @@ namespace TimeTrackerApp
                                 string category = "category_description";
                                 query = $@"Select * from activity_log where user_id = {userName} and {category} = {subSelection};";
                                 activities = ActivityLog.AllActivities(query);
+
                             }
                             else { Console.WriteLine("Invalid Entry"); }
-                            
-                           foreach(ActivityLog log in activities) { log.ConsoleWriter(); }
+                            List<Activities> descriptActivities = new List<Activities>();
+                           foreach(ActivityLog log in activities) { int i = log.SetID; Activities activity = new Activities(i); descriptActivities.Add(activity); }
+                           foreach(Activities log in descriptActivities) { Console.WriteLine(log.ToString()); }
                             Utility.Pause();
 
                         } break;
 
-                    case 3: { } break;
+                    case 3:
+                        {
+
+
+                        } break;
                     case 4: { running = false; } break;
                     default: { } break;
                 }
